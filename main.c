@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// Josh is amazing at C.
+
 void print( int x[]) {
   char y[50];
   y[0] = '[';
